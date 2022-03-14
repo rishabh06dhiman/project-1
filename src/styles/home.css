@@ -1,0 +1,159 @@
+/* .row{
+    width: 100%;
+    background-image: url(../assets/Pattern.svg);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+h1{
+    font-size: 48px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #5E56E7;
+    margin-left: 100px;
+    
+}
+
+ p{
+    font-size: 30px;
+    font-weight: medium;
+    font-family: 'Montserrat';
+    color: #333333;
+    margin-top: 0;
+    margin-left: 100px;
+}
+
+
+.rows{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+
+
+}
+
+
+
+.card{
+    height: 50px;
+    width: 400px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    
+
+    
+}
+.card-body{
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-body img{
+    height: 25px;
+    width: 25px;
+    
+}
+.nextIcon img{
+    height: 15px;
+    width: 15px;
+    padding-right: 10px;
+} */
+
+
+
+
+
+
+
+
+.title-row{
+    width: 100%;
+    background-image: url(../assets/Pattern.svg);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: #F0F0F6;
+}
+
+.title-row h1{
+    font-size: 3rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #5E56E7;
+    margin-left: 100px;
+}
+
+.title-row p{
+    font-size: 30px;
+    font-weight: medium;
+    font-family: 'Montserrat';
+    color: #333333;
+    margin-top: 0;
+    margin-left: 100px;
+}
+
+
+.category-row{
+    background-color: #F0F0F6;
+    padding-top: 30px;
+}
+
+.category-row .category-col-1{
+    
+    color: white;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-evenly;
+    align-items: center;
+   
+
+    
+}
+
+
+.card{
+    height: 50px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.card .card-body{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 10px;
+    
+   
+    
+}
+
+.card .card-body img{
+    height: 25px;
+    width: 25px;
+    padding-right: 2px;
+}
+
+.card .next-icon img{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+    
+}
+
