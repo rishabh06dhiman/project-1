@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-1/static/css/main.0beb6426.css",
+    "main.js": "/project-1/static/js/main.9f4b1b62.js",
+    "static/media/Pattern.svg": "/project-1/static/media/Pattern.c76b92de89b83e7d30cb.svg",
+    "static/media/book1.jpg": "/project-1/static/media/book1.d3508d28e4c20548114a.jpg",
+    "static/media/Adventure.svg": "/project-1/static/media/Adventure.74038d3e7fb1ed5f46b6a18f78567c3c.svg",
+    "static/media/History.svg": "/project-1/static/media/History.7ab22bf12bccb3139921512f5ad42bef.svg",
+    "static/media/Drama.svg": "/project-1/static/media/Drama.0e522682ba6f8244ef90a3219d9675a4.svg",
+    "static/media/Fiction.svg": "/project-1/static/media/Fiction.c794b5b6da7b756a37f8d3187368eb67.svg",
+    "static/media/Humour.svg": "/project-1/static/media/Humour.3f5832311865f6cb7f99df74a1b071c2.svg",
+    "static/media/Politics.svg": "/project-1/static/media/Politics.d65dec50eea31a1585fb37da0a6c4aab.svg",
+    "static/media/Philosophy.svg": "/project-1/static/media/Philosophy.4ec2f97073875cd51f68bb75ec36f355.svg",
+    "static/media/Search.svg": "/project-1/static/media/Search.b63320966ad4d54e0b98a817b9ba0cc1.svg",
+    "static/media/Back.svg": "/project-1/static/media/Back.98344a95cf5b2d90c2d733e6351ff92a.svg",
+    "static/media/Next.svg": "/project-1/static/media/Next.b3e690a6456dbaf3205091836df124d3.svg",
+    "index.html": "/project-1/index.html",
+    "main.0beb6426.css.map": "/project-1/static/css/main.0beb6426.css.map",
+    "main.9f4b1b62.js.map": "/project-1/static/js/main.9f4b1b62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0beb6426.css",
+    "static/js/main.9f4b1b62.js"
+  ]
+}
