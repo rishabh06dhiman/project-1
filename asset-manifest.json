@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/project-1/static/css/main.0beb6426.css",
-    "main.js": "/project-1/static/js/main.6ab6634f.js",
-    "static/media/Pattern.svg": "/project-1/static/media/Pattern.c76b92de89b83e7d30cb.svg",
+    "main.css": "/project-1/static/css/main.d911751f.css",
+    "main.js": "/project-1/static/js/main.9f3a59a1.js",
+    "static/media/Pattern.svg": "/project-1/static/media/Pattern.e0cf99e193e52314348d.svg",
     "static/media/book1.jpg": "/project-1/static/media/book1.d3508d28e4c20548114a.jpg",
-    "static/media/Adventure.svg": "/project-1/static/media/Adventure.74038d3e7fb1ed5f46b6a18f78567c3c.svg",
-    "static/media/History.svg": "/project-1/static/media/History.7ab22bf12bccb3139921512f5ad42bef.svg",
-    "static/media/Drama.svg": "/project-1/static/media/Drama.0e522682ba6f8244ef90a3219d9675a4.svg",
-    "static/media/Fiction.svg": "/project-1/static/media/Fiction.c794b5b6da7b756a37f8d3187368eb67.svg",
-    "static/media/Humour.svg": "/project-1/static/media/Humour.3f5832311865f6cb7f99df74a1b071c2.svg",
-    "static/media/Politics.svg": "/project-1/static/media/Politics.d65dec50eea31a1585fb37da0a6c4aab.svg",
-    "static/media/Philosophy.svg": "/project-1/static/media/Philosophy.4ec2f97073875cd51f68bb75ec36f355.svg",
-    "static/media/Search.svg": "/project-1/static/media/Search.b63320966ad4d54e0b98a817b9ba0cc1.svg",
-    "static/media/Back.svg": "/project-1/static/media/Back.98344a95cf5b2d90c2d733e6351ff92a.svg",
-    "static/media/Next.svg": "/project-1/static/media/Next.b3e690a6456dbaf3205091836df124d3.svg",
+    "static/media/Adventure.svg": "/project-1/static/media/Adventure.e4ad07910bff1fe62e8d592316795700.svg",
+    "static/media/History.svg": "/project-1/static/media/History.8d67c7a31d295342262b07af3fa40780.svg",
+    "static/media/Drama.svg": "/project-1/static/media/Drama.7f40f1872d83ab43546c514ee790f773.svg",
+    "static/media/Fiction.svg": "/project-1/static/media/Fiction.f355d006070d367ea914429beb0b1855.svg",
+    "static/media/Humour.svg": "/project-1/static/media/Humour.2231c5ba1534b1724c9f86b841042620.svg",
+    "static/media/Politics.svg": "/project-1/static/media/Politics.6b6456835e27b6e1de566b522ebca309.svg",
+    "static/media/Philosophy.svg": "/project-1/static/media/Philosophy.9844885b3e9360b64c9a07b5503bfc76.svg",
+    "static/media/Back.svg": "/project-1/static/media/Back.a7b54b452ad7f88abf0e09ff433ea6e6.svg",
+    "static/media/Next.svg": "/project-1/static/media/Next.d2e92bdc9cdb24cbb73f5c60386fbf4b.svg",
     "index.html": "/project-1/index.html",
-    "main.0beb6426.css.map": "/project-1/static/css/main.0beb6426.css.map",
-    "main.6ab6634f.js.map": "/project-1/static/js/main.6ab6634f.js.map"
+    "main.d911751f.css.map": "/project-1/static/css/main.d911751f.css.map",
+    "main.9f3a59a1.js.map": "/project-1/static/js/main.9f3a59a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.0beb6426.css",
-    "static/js/main.6ab6634f.js"
+    "static/css/main.d911751f.css",
+    "static/js/main.9f3a59a1.js"
   ]
 }
